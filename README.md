@@ -1,14 +1,13 @@
 ### Hi there myself Jitendra Prajapati 👋
 
-## I am final year IT student from Ahmedabad
+## I am Software Engineer currently working at ZuPay as a Backend Developer. 
 
 <!-- **jp803333/jp803333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning Backend and Mobile app development
-- 💬 Ask me about Flutter, Firebase
+- Interested in AWS, cloud computing, System Architectures
+- Exploring machine learning in free time
+- 💬 Ask me about Python, FastAPI, Backend 
 
 ### How to reach out to me:
 
