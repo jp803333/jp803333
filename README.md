@@ -44,4 +44,4 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp803333&langs_count=8&hide=python&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp803333&langs_count=8&layout=compact&theme=dark)
